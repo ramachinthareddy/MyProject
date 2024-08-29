@@ -1,4 +1,4 @@
-package CoreJava.HT3;
+package src.CoreJava.HT3;
 import java.util.Scanner;
 public class Task32DoWhilePyramidPatt {
     public static void main(String[] args) {
@@ -22,6 +22,8 @@ public class Task32DoWhilePyramidPatt {
                 System.out.println();
                 i++;
             } while (i <= rows);
+            
         }
+    
     }
 

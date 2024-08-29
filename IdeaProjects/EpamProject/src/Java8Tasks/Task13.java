@@ -1,4 +1,4 @@
-package Java8Tasks;
+package src.Java8Tasks;
 
 public class Task13 {
     public boolean areRotations(String str1, String str2) {

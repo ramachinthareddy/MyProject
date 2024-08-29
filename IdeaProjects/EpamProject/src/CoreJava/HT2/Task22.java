@@ -1,4 +1,4 @@
-package CoreJava.HT2;
+package src.CoreJava.HT2;
 import java.lang.*;
 import java.util.Scanner;
 public class Task22 {

@@ -1,4 +1,4 @@
-package CoreJava.HT5;
+package src.CoreJava.HT5;
 
 public class Task55 {
     public boolean inOrder(int a, int b, int c, boolean bOk) {

@@ -1,4 +1,4 @@
-package CoreJava.HT4;
+package src.CoreJava.HT4;
 
 import java.util.HashMap;
 import java.util.Map;

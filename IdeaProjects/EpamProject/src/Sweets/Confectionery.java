@@ -1,4 +1,4 @@
-package Sweets;
+package src.Sweets;
 
 public abstract class Confectionery {
     private String name;

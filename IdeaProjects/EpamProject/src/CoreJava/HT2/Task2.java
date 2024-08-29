@@ -1,4 +1,4 @@
-package CoreJava.HT2;
+package src.CoreJava.HT2;
 
 public class Task2 {
 

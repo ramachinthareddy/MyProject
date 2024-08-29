@@ -1,4 +1,4 @@
-package ColletionsHTs;
+package src.ColletionsHTs;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

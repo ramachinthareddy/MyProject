@@ -1,4 +1,4 @@
-package pizza;
+package src.pizza;
 
 import java.util.List;
 

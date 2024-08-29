@@ -1,4 +1,4 @@
-package CoreJava.HT5;
+package src.CoreJava.HT5;
 
 public class Task59 {
     public int largestBlockLength(String str) {

@@ -1,4 +1,4 @@
-package CoreJava.HT6;
+package src.CoreJava.HT6;
 
 public class Task64 {
     public int largestMirrorSection(int[] nums) {

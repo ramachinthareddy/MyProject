@@ -1,4 +1,4 @@
-package CoreJava.HT3;
+package src.CoreJava.HT3;
 import java.util.Scanner;
 public class Task31WhilePyramidPattern {
 

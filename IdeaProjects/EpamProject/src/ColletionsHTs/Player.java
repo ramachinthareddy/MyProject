@@ -1,4 +1,4 @@
-package ColletionsHTs;
+package src.ColletionsHTs;
 import java.util.*;
 public class Player {
 

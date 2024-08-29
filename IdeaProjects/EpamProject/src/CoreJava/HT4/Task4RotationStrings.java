@@ -1,4 +1,4 @@
-package CoreJava.HT4;
+package src.CoreJava.HT4;
 
 public class Task4RotationStrings {
     public static boolean areRotations(String str1, String str2) {

@@ -1,4 +1,4 @@
-package Sweets;
+package src.Sweets;
 
 public class Chocolate extends Confectionery{
     private String brand;

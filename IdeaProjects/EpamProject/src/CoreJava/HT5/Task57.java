@@ -1,4 +1,4 @@
-package CoreJava.HT5;
+package src.CoreJava.HT5;
 
 public class Task57 {
     public int sumWithSameDigits(int a, int b) {

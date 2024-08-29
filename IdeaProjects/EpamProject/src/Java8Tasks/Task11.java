@@ -1,4 +1,4 @@
-package Java8Tasks;
+package src.Java8Tasks;
 
 public class Task11 {
     public boolean isPalindrome(String str) {

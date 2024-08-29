@@ -1,4 +1,4 @@
-package Java8Tasks;
+package src.Java8Tasks;
 
 import java.util.Arrays;
 import java.util.Collections;

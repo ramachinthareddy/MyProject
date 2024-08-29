@@ -1,4 +1,4 @@
-package CollectionsHT6;
+package src.CollectionsHT6;
 import java.util.HashMap;
 public class HashMapDemo {
 

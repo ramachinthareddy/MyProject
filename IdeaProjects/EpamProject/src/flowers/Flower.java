@@ -1,4 +1,4 @@
-package flowers;
+package src.flowers;
 
 public class Flower {
     private String name;

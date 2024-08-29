@@ -1,4 +1,4 @@
-package Sweets;
+package src.Sweets;
 
 public class Sweet extends Confectionery{
     private String flavor;

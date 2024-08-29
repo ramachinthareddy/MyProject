@@ -1,4 +1,4 @@
-package Sweets;
+package src.Sweets;
 
 import java.util.ArrayList;
 import java.util.Collections;

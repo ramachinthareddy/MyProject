@@ -1,4 +1,4 @@
-package CollectionsHT6;
+package src.CollectionsHT6;
 import java.util.TreeSet;
 public class TreeSetDemo {
     public static void main(String[] args) {

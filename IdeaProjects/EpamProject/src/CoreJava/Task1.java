@@ -1,4 +1,4 @@
-package CoreJava;
+package src.CoreJava;
 
 public class Task1 {
     int togetherApples;

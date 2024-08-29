@@ -1,4 +1,4 @@
-package CoreJava.HT6;
+package src.CoreJava.HT6;
 
 public class Task65 {
     public boolean linearIn(int[] outer, int[] inner) {
