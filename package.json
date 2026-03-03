@@ -1,0 +1,25 @@
+{
+  "name": "epam-playwright-tests",
+  "version": "2.0.0",
+  "description": "Playwright TypeScript test suite for EPAM website – Client Work navigation scenario",
+  "scripts": {
+    "test":              "playwright test",
+    "test:headed":       "playwright test --headed",
+    "test:chromium":     "playwright test --project=chromium",
+    "test:firefox":      "playwright test --project=firefox",
+    "test:webkit":       "playwright test --project=webkit",
+    "test:mobile":       "playwright test --project='Mobile Chrome' --project='Mobile Safari'",
+    "test:ui":           "playwright test --ui",
+    "test:debug":        "playwright test --debug",
+    "test:report":       "playwright show-report",
+    "install:browsers":  "playwright install --with-deps"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.0",
+    "@types/node":       "^20.0.0",
+    "typescript":        "^5.4.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
